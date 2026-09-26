@@ -16,7 +16,7 @@
 
   <!-- APK İndirme Butonu -->
   <a href="release/arduino_controller.apk?raw=true">
-    <img src="https://img.shields.io/badge/📲%20DOĞRUDAN%20İNDİR-APK%20(Release)-success?style=for-the-badge&logo=android&logoColor=white&color=28a745" height="45" alt="APK İndir" />
+    <img src="https://github.com/miracbozacioglu/arduino-bluetooth-controller/releases/download/v1.0.0/arduino_controller.apk" height="45" alt="APK İndir" />
   </a>
   <p><em>(Yukarıdaki butona tıklayarak derlenmiş hazır APK'yı doğrudan telefonunuza indirebilirsiniz.)</em></p>
 
