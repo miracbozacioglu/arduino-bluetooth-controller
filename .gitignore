@@ -1,0 +1,22 @@
+# Flutter / Dart derleme ve geçici dosyaları
+arduino_bt_controller/.dart_tool/
+arduino_bt_controller/.flutter-plugins
+arduino_bt_controller/.flutter-plugins-dependencies
+arduino_bt_controller/.packages
+arduino_bt_controller/.pub-cache/
+arduino_bt_controller/.pub/
+arduino_bt_controller/build/
+
+# Android Studio & IDE dosyaları
+.idea/
+*.iml
+.vscode/
+arduino_bt_controller/.idea/
+arduino_bt_controller/*.iml
+
+# İşletim sistemi kalıntıları
+.DS_Store
+Thumbs.db
+
+# APK klasöründeki apk hariç tutulmaz (README'den indirilmesi için repoda kalmalı)
+!release/arduino_controller.apk
