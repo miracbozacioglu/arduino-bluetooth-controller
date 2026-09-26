@@ -99,13 +99,3 @@ void loop() {
     }
   }
 }
----
-
-<div align="center">
-
-  ## ⭐ Projeyi Beğendiniz mi?
-  
-  Eğer bu proje işinize yaradıysa veya beğendiyseniz, repoyu kaydetmek ve destek olmak için **sağ üst köşeden bir Yıldız (Star) bırakmayı unutmayın!** 🌟
-
-  
-</div>
